@@ -3,6 +3,8 @@ Node-Eclipse-Studio
 
 [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio)
 
+<!-- NODE DONE -->
+
 ## Goal
 
 The goal of the project is to created the lightest Eclipse Distribution for Node.js development.
@@ -26,6 +28,8 @@ However I have not succeeded with what to do next. The site is a bit mess. It is
  I will update, if I succeed.
 
 ## Contacts
+
+If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/PaulVI/eclipse-node-ide).
 
 * How do I? -- StackOverflow!
 * I got this error, why? -- StackOverflow!
