@@ -26,6 +26,13 @@ and click "create your own custom install" )
 
 However I have not succeeded with what to do next. The site is a bit mess. It is not clear if it is fully free.
  I will update, if I succeed.
+ 
+### Second attempt - Googling
+ 
+[Create your own Eclipse distro made easy](http://tomsondev.bestsolution.at/2012/07/13/create-your-own-eclipse-distro-made-easy/) 
+ July 13, 2012 by Tom Schindl
+ 
+https://github.com/tomsontom/distrobuilder cloned to https://github.com/Nodeclipse/distrobuilder
 
 ## Contacts
 
