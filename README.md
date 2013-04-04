@@ -29,7 +29,7 @@ However I have not succeeded with what to do next. The site is a bit mess. It is
 
 ## Contacts
 
-If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/PaulVI/eclipse-node-ide).
+If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide).
 
 * How do I? -- StackOverflow!
 * I got this error, why? -- StackOverflow!
