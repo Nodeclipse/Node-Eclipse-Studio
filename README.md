@@ -34,6 +34,8 @@ However I have not succeeded with what to do next. The site is a bit mess. It is
  
 https://github.com/tomsontom/distrobuilder cloned to https://github.com/Nodeclipse/distrobuilder
 
+3) http://www.genuitec.com/sdc
+
 ## Contacts
 
 If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide).
