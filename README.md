@@ -26,10 +26,19 @@ and click "create your own custom install" )
 
 However I have not succeeded with what to do next. The site is a bit mess. It is not clear if it is fully free.
  I will update, if I succeed.
+ 
+### Second attempt - Googling
+ 
+[Create your own Eclipse distro made easy](http://tomsondev.bestsolution.at/2012/07/13/create-your-own-eclipse-distro-made-easy/) 
+ July 13, 2012 by Tom Schindl
+ 
+https://github.com/tomsontom/distrobuilder cloned to https://github.com/Nodeclipse/distrobuilder
+
+3) http://www.genuitec.com/sdc
 
 ## Contacts
 
-If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/PaulVI/eclipse-node-ide).
+If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide).
 
 * How do I? -- StackOverflow!
 * I got this error, why? -- StackOverflow!
@@ -50,8 +59,8 @@ QQ 908781544
 
 In case you plan to blog or tweet about the Eclipse Node.js IDE, please use the tag "#Node-Eclipse-Studio"
  in order to make it easier to find all the comments and pictures. Thanks a lot for telling the world about the project!  
-  | 请用#Node-Eclipse-Studio#标签微博一下。  
-  | Por favor, utilizar etiqueta #Node-Eclipse-Studio  
-  | ツイートする時は、＃Node-Eclipse-Studio タグを使用してください。   
-  | Bitte benutzen Sie tag #Node-Eclipse-Studio um zu twiten.
+  | 请用#nodeclipse# #Node-Eclipse-Studio#标签微博一下。  
+  | Por favor, utilizar etiqueta #nodeclipse #Node-Eclipse-Studio  
+  | ツイートする時は、#nodeclipse ＃Node-Eclipse-Studio タグを使用してください。   
+  | Bitte benutzen Sie tag #nodeclipse #Node-Eclipse-Studio um zu twiten.
  
