@@ -9,7 +9,8 @@ Node-Eclipse-Studio
 
 The goal of the project is to created the lightest Eclipse Distribution for Node.js development.
 
-Of course it will include Nodeclipse plugin. See [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)
+Of course it will include [Nodeclipse-1 plugin](https://github.com/Nodeclipse/nodeclipse-1).
+ See [Nodeclipse team blog](https://github.com/Nodeclipse/nodeclipse-blog#blog)
 
 It should not include Java Tools, but EGit, possibly JS & Web tools.
 
