@@ -59,8 +59,8 @@ QQ 908781544
 
 In case you plan to blog or tweet about the Eclipse Node.js IDE, please use the tag "#Node-Eclipse-Studio"
  in order to make it easier to find all the comments and pictures. Thanks a lot for telling the world about the project!  
-  | 请用#Node-Eclipse-Studio#标签微博一下。  
-  | Por favor, utilizar etiqueta #Node-Eclipse-Studio  
-  | ツイートする時は、＃Node-Eclipse-Studio タグを使用してください。   
-  | Bitte benutzen Sie tag #Node-Eclipse-Studio um zu twiten.
+  | 请用#nodeclipse# #Node-Eclipse-Studio#标签微博一下。  
+  | Por favor, utilizar etiqueta #nodeclipse #Node-Eclipse-Studio  
+  | ツイートする時は、#nodeclipse ＃Node-Eclipse-Studio タグを使用してください。   
+  | Bitte benutzen Sie tag #nodeclipse #Node-Eclipse-Studio um zu twiten.
  
