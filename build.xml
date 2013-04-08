@@ -2,7 +2,7 @@
     <property name="nes.version" />
      
     <taskdef name="builder"
-        classpath="/home/jenkins/distbuilder/libs/at.bestsolution.releng.distrobuilder-0.0.1-SNAPSHOT.jar"
+        classpath="at.bestsolution.releng.distrobuilder-0.0.1-SNAPSHOT.jar"
         classname="at.bestsolution.releng.distrobuilder.ant.DistroBuilderTaskDef" />
     <target name="build-distros" description="Build distros">
         <echo>Hello from Ant</echo>

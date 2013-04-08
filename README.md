@@ -3,6 +3,8 @@ Node-Eclipse-Studio
 
 [Node on Eclipse Studio (NES)](https://github.com/Nodeclipse/Node-Eclipse-Studio)
 
+**HELP NEEDED !!!**
+
 <!-- NODE DONE -->
 
 ## Goal
@@ -35,7 +37,11 @@ However I have not succeeded with what to do next. The site is a bit mess. It is
  
 https://github.com/tomsontom/distrobuilder cloned to https://github.com/Nodeclipse/distrobuilder
 
-3) http://www.genuitec.com/sdc
+3) http://www.genuitec.com/sdc unaccessible
+
+Using preinstalled Jenkins Virtual Appliance 
+http://bitnami.com/stack/jenkins
+
 
 ## Contacts
 
