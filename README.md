@@ -5,7 +5,7 @@ Node-Eclipse-Studio
 
 **HELP NEEDED !!!**
 
-<!-- NODE DONE -->
+<!-- DONE wit NODE  -->
 
 ## Goal
 
