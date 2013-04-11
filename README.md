@@ -16,19 +16,11 @@ Of course it will include [Nodeclipse-1 plugin](https://github.com/Nodeclipse/no
 
 It should not include Java Tools, but EGit, possibly JS & Web tools.
 
-![Yoxos-JS-Git.PNG](Pictures/Yoxos-JS-Git.PNG)
 
 ## Status 
 
-*Under investigation*
+*Under investigation, probations*
 
-I am trying to create our own Eclipse distribution using yoxos.
-
-The start is simple ( just navigate to https://yoxos.eclipsesource.com/discover.html
-and click "create your own custom install" )
-
-However I have not succeeded with what to do next. The site is a bit mess. It is not clear if it is fully free.
- I will update, if I succeed.
  
 ### Second attempt - Googling
  
@@ -42,6 +34,48 @@ https://github.com/tomsontom/distrobuilder cloned to https://github.com/Nodeclip
 Using preinstalled Jenkins Virtual Appliance 
 http://bitnami.com/stack/jenkins
 
+## Options
+
+### Yoxos
+
+Warning: before taking steps, read conclusion first.
+
+I am trying to create our own Eclipse distribution using yoxos.
+
+The start is simple ( just navigate to https://yoxos.eclipsesource.com/discover.html
+and click "create your own custom install" )
+
+However I have not succeeded with what to do next. The site is a bit mess. It is not clear if it is fully free.
+
+UPDATE:
+
+I created profile NES4.2 (based on Eclipse 4.2 + Git + JSDT + Nodeclipse).
+
+![Yoxos-JS-Git.PNG](Pictures/Yoxos-JS-Git.PNG)
+
+This is link to plublic profile to download, but you need to register on yoxos
+https://yoxos.eclipsesource.com/userdata/profile/fe0ceddd57f38b2e461c1e96a508d1c1
+Now anybody can download this profile.
+
+Download is zip file for specified platform (just like Eclipse).
+
+First start takes 30sec longer.
+
+Then it intrusively requires login to with yoxos account (If you press X to close window, it pop-ups again 1-2 times.) :-(
+
+![yoxos-intrusive.PNG](Pictures/yoxos-intrusive.PNG)
+
+After restart (I needed to add ChromeDevtools, as there were not referenced in profile),
+Yoxos requires login again, and becomes unresponsive when "fetching distribution... " What the hell!
+
+![yoxos-fetching-distribution-info.PNG](Pictures/yoxos-fetching-distribution-info.PNG)
+
+#### Yoxos conclusion
+
+Big disappointment. https://yoxos.eclipsesource.com web pages advertise that it is so simple, then you spend several days
+ on learning how to in absolutely NOT straight-forward way, and when you get result it is not accomplished, slow, intrusive.
+It is not Eclipse distribution, but one more Yoxos launher apllication.
+The advertising pages are misleading.  
 
 ## Contacts
 
