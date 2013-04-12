@@ -77,6 +77,12 @@ Big disappointment. https://yoxos.eclipsesource.com web pages advertise that it 
 It is not Eclipse distribution, but one more Yoxos launher apllication.
 The advertising pages are misleading.  
 
+### Genuitec
+
+http://marketplace.eclipse.org/content/secure-marketplace
+
+It seems to need license.
+
 ## Contacts
 
 If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide).
