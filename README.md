@@ -83,6 +83,12 @@ http://marketplace.eclipse.org/content/secure-marketplace
 
 It seems to need license.
 
+### EasyEclipse plugins installers
+
+Commercial lisense
+
+http://marketplace.eclipse.org/content/easyeclipse-plugins-installers
+
 ## Contacts
 
 If you only need to install set of plugins, check [Eclipse Node IDE](https://github.com/Nodeclipse/eclipse-node-ide).
